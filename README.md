@@ -5,8 +5,13 @@ A self-organizing map (SOM) or self-organizing feature map (SOFM) is a type of a
 Here is the explanations of the algorithm.
 ![](SOM_algorithm.png)
 
+I used Cython because of the for loop
 
-Here is an example when using SOM on colors (it's super easy to visualize)
+To execute :
+
+python lala.py
+
+Here is an example when using SOM on colors (it's super easy to visualize) with my algorithm
 
 ![](color_figure.png)
 
